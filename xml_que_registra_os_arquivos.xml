@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persons>
+    <person>
+        <birthday>1985-03-08</birthday>
+        <city>Goiânia</city>
+        <firstName>Michel</firstName>
+        <lastName>Fernandes</lastName>
+        <postalCode>74735</postalCode>
+        <street>Capauan</street>
+    </person>
+</persons>
